@@ -14,4 +14,4 @@ extraction of individual cells from the original histology images with are much 
 
 Right now I am working on extending my previous model as mention before, in order to detect and extract the individual cells from the original histology images. Thus far I i investigated using a Mask R-CNN framework, and have created a mock diagram to explore its architecture.
 
-<!--![Alt Text](path/to/image.png)-->
+![Alt Text](https://github.com/Genevieve-ZIlo/AboutMe/blob/main/Screen%20Shot%202023-07-16%20at%2011.45.49%20am.png)
